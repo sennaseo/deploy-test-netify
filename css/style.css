@@ -20,6 +20,7 @@ body {
 
 /* header */
 header {
+  background-color: aqua;
   height: 100px;
   display: flex;
   justify-content: space-between;
